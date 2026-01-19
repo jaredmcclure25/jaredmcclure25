@@ -8,7 +8,7 @@ I'm an Army officer and self-taught developer building products that solve real 
 
 ### What I'm Building
 
-**[Precision Prices](https://precisionprices.com)** — Helping Facebook Marketplace and eBay sellers price items accurately using AI and hyperlocal market data.
+**[Precision Prices](https://precisionprices.com)** — I built Precision Prices to help Facebook Marketplace buyers and sellers conduct business using the fair market value of products. This AI-powered tool uses local data to provide quick sale, best, and premium listing price recommendations. It's as simple as uploading a picture, filling out a few item descriptions, and analyzing in seconds. My goal is wide-spread adoption by Facebook users where sellers can maximize their sales and buyers can get a fair deal through informed negotiations.
 
 ---
 
